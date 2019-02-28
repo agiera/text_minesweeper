@@ -1,1 +1,1 @@
-# Text based Minesweeping in Python 3.7
+# Text based Minesweeper in Python 3.7
